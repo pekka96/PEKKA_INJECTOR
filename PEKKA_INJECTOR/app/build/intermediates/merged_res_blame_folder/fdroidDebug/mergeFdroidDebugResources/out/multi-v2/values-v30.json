@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.v2ray.ang.app-mergeFdroidDebugResources-2:/values-v30/values-v30.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\MY PC\\.gradle\\caches\\9.5.1\\transforms\\568ccd33e69a77f41a47000dc2e29ecb\\transformed\\material3\\res\\values-v30\\values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    }
+                }
+            ]
+        }
+    ]
+}

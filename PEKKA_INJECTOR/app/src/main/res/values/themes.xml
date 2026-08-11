@@ -1,0 +1,34 @@
+<resources>
+    <color name="window_background_light">#FF1A0033</color>
+    <color name="window_background_dark">#FF000000</color>
+
+    <style name="AppThemeBase" parent="@android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+        <item name="android:windowBackground">@drawable/gradient_purple_bg</item>
+
+        <!-- Primary / Accent (android: prefix add kala - framework theme eke attrs) -->
+        <item name="android:colorPrimary">@color/colorPrimary</item>
+        <item name="android:colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="android:colorAccent">@color/colorAccent</item>
+
+        <!-- Text Colors -->
+        <item name="android:textColorPrimary">@color/textColorPrimary</item>
+        <item name="android:textColorSecondary">@color/textColorSecondary</item>
+        <item name="android:textColorHint">@color/textColorHint</item>
+
+        <!-- Surface -->
+        <item name="android:colorBackground">@color/colorBackground</item>
+    </style>
+
+    <style name="AppThemeDayNight" parent="AppThemeBase" />
+
+    <style name="AppThemeDayNight.NoActionBar" parent="AppThemeBase" />
+
+    <style name="AppThemeDayNight.NoActionBar.Translucent" parent="AppThemeBase">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+</resources>

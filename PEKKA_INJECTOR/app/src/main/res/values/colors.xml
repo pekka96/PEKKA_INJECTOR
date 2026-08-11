@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- PEKKA Gradient Theme Colors -->
+    <color name="pekka_purple_dark">#1A0033</color>
+    <color name="pekka_purple_mid">#4A148C</color>
+    <color name="pekka_purple_light">#9C27B0</color>
+    <color name="pekka_violet">#7B1FA2</color>
+    <color name="pekka_black">#000000</color>
+    <color name="pekka_glow">#B388FF</color>
+
+    <!-- Primary Theme Colors -->
+    <color name="colorPrimary">#7B1FA2</color>
+    <color name="colorPrimaryDark">#1A0033</color>
+    <color name="colorAccent">#B388FF</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+
+    <!-- Surface / Background -->
+    <color name="colorSurface">#1A0033</color>
+    <color name="colorBackground">#000000</color>
+    <color name="colorOnSurface">#FFFFFF</color>
+
+    <!-- Text Colors -->
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="textColorSecondary">#E0B3FF</color>
+    <color name="textColorHint">#9C7BB5</color>
+    <color name="textColorDisabled">#6A4C7A</color>
+
+    <!-- Drawer / Nav specific -->
+    <color name="drawerBackground">#1A0033</color>
+    <color name="drawerItemText">#FFFFFF</color>
+    <color name="drawerItemIcon">#B388FF</color>
+    <color name="drawerItemTextSelected">#FFFFFF</color>
+    <color name="drawerItemBgSelected">#4A148C</color>
+
+    <!-- Button -->
+    <color name="buttonConnectedColor">#B388FF</color>
+    <color name="buttonDisconnectedColor">#7B1FA2</color>
+
+    <!-- Divider / Border -->
+    <color name="dividerColor">#4A148C</color>
+</resources>

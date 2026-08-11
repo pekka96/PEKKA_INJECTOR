@@ -1,0 +1,6 @@
+com.v2ray.ang.test.app-fdroid-0 C:\PEKKA_INJECTOR-build\PEKKA_INJECTOR\app\build\generated\res\resValues\androidTest\fdroid\debug
+com.v2ray.ang.test.app-updated_navigation_xml-1 C:\PEKKA_INJECTOR-build\PEKKA_INJECTOR\app\build\generated\updated_navigation_xml\fdroidDebugAndroidTest
+com.v2ray.ang.test.app-mergeFdroidDebugAndroidTestResources-2 C:\PEKKA_INJECTOR-build\PEKKA_INJECTOR\app\build\intermediates\incremental\fdroidDebugAndroidTest\mergeFdroidDebugAndroidTestResources\merged.dir
+com.v2ray.ang.test.app-mergeFdroidDebugAndroidTestResources-3 C:\PEKKA_INJECTOR-build\PEKKA_INJECTOR\app\build\intermediates\incremental\fdroidDebugAndroidTest\mergeFdroidDebugAndroidTestResources\stripped.dir
+com.v2ray.ang.test.app-fdroidDebugAndroidTest-4 C:\PEKKA_INJECTOR-build\PEKKA_INJECTOR\app\build\intermediates\merged_res\fdroidDebugAndroidTest\mergeFdroidDebugAndroidTestResources
+gradleHome-0 C:\Users\MY PC\.gradle
