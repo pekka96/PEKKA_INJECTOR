@@ -1,0 +1,32 @@
+<variant
+    name="fdroidRelease"
+    package="com.v2ray.ang"
+    minSdkVersion="24"
+    targetSdkVersion="37.0"
+    mergedManifest="build\intermediates\merged_manifest\fdroidRelease\processFdroidReleaseMainManifest\AndroidManifest.xml"
+    manifestMergeReport="build\outputs\logs\manifest-merger-fdroid-release-report.txt"
+    proguardFiles="build\intermediates\default_proguard_files\global\proguard-android-optimize.txt-9.3.1;proguard-rules.pro"
+    partialResultsDir="build\intermediates\lint_vital_partial_results\fdroidRelease\lintVitalAnalyzeFdroidRelease\out">
+  <buildFeatures
+      coreLibraryDesugaring="true"/>
+  <sourceProviders>
+    <sourceProvider
+        manifests="src\main\AndroidManifest.xml"
+        javaDirectories="src\main\java;src\fdroid\java;src\release\java;src\fdroidRelease\java;src\main\kotlin;src\fdroid\kotlin;src\release\kotlin;src\fdroidRelease\kotlin"
+        resDirectories="src\main\res;src\fdroid\res;src\release\res;src\fdroidRelease\res"
+        assetsDirectories="src\main\assets;src\fdroid\assets;src\release\assets;src\fdroidRelease\assets"
+        keepRulesDirectories="src\main\keepRules;src\fdroid\keepRules;src\release\keepRules;src\fdroidRelease\keepRules"/>
+  </sourceProviders>
+  <testSourceProviders>
+  </testSourceProviders>
+  <testFixturesSourceProviders>
+  </testFixturesSourceProviders>
+  <artifact
+      classOutputs="build\intermediates\javac\fdroidRelease\compileFdroidReleaseJavaWithJavac\classes;build\tmp\kotlin-classes\fdroidRelease;build\kotlinToolingMetadata;build\intermediates\compile_and_runtime_r_class_jar\fdroidRelease\processFdroidReleaseResources\R.jar"
+      type="MAIN"
+      applicationId="com.v2ray.ang.fdroid"
+      generatedSourceFolders="build\generated\ap_generated_sources\fdroidRelease\out;build\generated\source\buildConfig\fdroid\release"
+      generatedResourceFolders="build\generated\res\resValues\fdroid\release"
+      desugaredMethodsFiles="C:\Users\MY PC\.gradle\caches\9.5.1\transforms\6a4c98878b7132749ecb11b7193809f7\transformed\desugar_jdk_libs_configuration-2.1.5-desugar-lint.txt;C:\Users\MY PC\.gradle\caches\9.5.1\transforms\9ed9bb203b7876f31188112df6875cc6\transformed\D8BackportedDesugaredMethods.txt">
+  </artifact>
+</variant>

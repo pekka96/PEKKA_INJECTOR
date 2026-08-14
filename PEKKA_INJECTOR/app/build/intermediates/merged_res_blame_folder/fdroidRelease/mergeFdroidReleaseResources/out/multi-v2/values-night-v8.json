@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.v2ray.ang.app-mergeFdroidReleaseResources-2:/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "C:\\PEKKA_INJECTOR-build\\PEKKA_INJECTOR\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "from": {
+                        "startLines": "3,11,13,15",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "143,613,674,747",
+                        "endLines": "9,11,13,18",
+                        "endColumns": "12,59,71,12",
+                        "endOffsets": "607,668,741,978"
+                    },
+                    "to": {
+                        "startLines": "2,9,10,11",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,524,583,654",
+                        "endLines": "8,9,10,14",
+                        "endColumns": "12,58,70,12",
+                        "endOffsets": "519,578,649,885"
+                    }
+                }
+            ]
+        }
+    ]
+}

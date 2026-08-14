@@ -1,0 +1,11 @@
+com.v2ray.ang.app-fdroid-0 C:\PEKKA_INJECTOR-build\PEKKA_INJECTOR\app\build\generated\res\pngs\fdroid\release
+com.v2ray.ang.app-fdroid-1 C:\PEKKA_INJECTOR-build\PEKKA_INJECTOR\app\build\generated\res\resValues\fdroid\release
+com.v2ray.ang.app-updated_navigation_xml-2 C:\PEKKA_INJECTOR-build\PEKKA_INJECTOR\app\build\generated\updated_navigation_xml\fdroidRelease
+com.v2ray.ang.app-packageFdroidReleaseResources-3 C:\PEKKA_INJECTOR-build\PEKKA_INJECTOR\app\build\intermediates\incremental\fdroidRelease\packageFdroidReleaseResources\merged.dir
+com.v2ray.ang.app-packageFdroidReleaseResources-4 C:\PEKKA_INJECTOR-build\PEKKA_INJECTOR\app\build\intermediates\incremental\fdroidRelease\packageFdroidReleaseResources\stripped.dir
+com.v2ray.ang.app-fdroidRelease-5 C:\PEKKA_INJECTOR-build\PEKKA_INJECTOR\app\build\intermediates\merged_res\fdroidRelease\mergeFdroidReleaseResources
+com.v2ray.ang.app-fdroid-6 C:\PEKKA_INJECTOR-build\PEKKA_INJECTOR\app\src\fdroid\res
+com.v2ray.ang.app-fdroidRelease-7 C:\PEKKA_INJECTOR-build\PEKKA_INJECTOR\app\src\fdroidRelease\res
+com.v2ray.ang.app-main-8 C:\PEKKA_INJECTOR-build\PEKKA_INJECTOR\app\src\main\res
+com.v2ray.ang.app-release-9 C:\PEKKA_INJECTOR-build\PEKKA_INJECTOR\app\src\release\res
+gradleHome-0 C:\Users\MY PC\.gradle

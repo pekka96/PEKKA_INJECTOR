@@ -1,0 +1,72 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "OPTIMIZED_PROCESSED_RES",
+    "kind": "Directory"
+  },
+  "applicationId": "com.v2ray.ang.fdroid",
+  "variantName": "fdroidRelease",
+  "elements": [
+    {
+      "type": "UNIVERSAL",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 5073600,
+      "versionName": "2.2.6",
+      "outputFile": "resources-fdroid-universal-release-optimize.ap_"
+    },
+    {
+      "type": "ONE_OF_MANY",
+      "filters": [
+        {
+          "filterType": "ABI",
+          "value": "x86_64"
+        }
+      ],
+      "attributes": [],
+      "versionCode": 5073603,
+      "versionName": "2.2.6",
+      "outputFile": "resources-fdroid-x86_64-release-optimize.ap_"
+    },
+    {
+      "type": "ONE_OF_MANY",
+      "filters": [
+        {
+          "filterType": "ABI",
+          "value": "armeabi-v7a"
+        }
+      ],
+      "attributes": [],
+      "versionCode": 5073602,
+      "versionName": "2.2.6",
+      "outputFile": "resources-fdroid-armeabi-v7a-release-optimize.ap_"
+    },
+    {
+      "type": "ONE_OF_MANY",
+      "filters": [
+        {
+          "filterType": "ABI",
+          "value": "x86"
+        }
+      ],
+      "attributes": [],
+      "versionCode": 5073604,
+      "versionName": "2.2.6",
+      "outputFile": "resources-fdroid-x86-release-optimize.ap_"
+    },
+    {
+      "type": "ONE_OF_MANY",
+      "filters": [
+        {
+          "filterType": "ABI",
+          "value": "arm64-v8a"
+        }
+      ],
+      "attributes": [],
+      "versionCode": 5073601,
+      "versionName": "2.2.6",
+      "outputFile": "resources-fdroid-arm64-v8a-release-optimize.ap_"
+    }
+  ],
+  "elementType": "File"
+}

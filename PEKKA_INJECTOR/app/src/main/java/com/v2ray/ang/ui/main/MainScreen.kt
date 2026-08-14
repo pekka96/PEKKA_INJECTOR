@@ -230,7 +230,7 @@ fun MainScreen(
                     onAction = onAction
                 )
             },
-            floatingActionButton = {},
+            floatingActionButton = { MainAnnouncementFab() },
         ) { innerPadding ->
             val layoutDirection = LocalLayoutDirection.current
 
